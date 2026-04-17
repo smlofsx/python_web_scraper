@@ -14,7 +14,7 @@ create_url='https://mail.spbstu.ru/owa/service.svc?action=CreateItem'
 find_cookies = {"X-BackEndCookie": "<redacted>",
                 "ClientId": "<redacted>",
                 "X-OWA-JS-PSD": "1",
-                "UC": "b5faf18f42c34f7380e973cefac2f9e8",
+                "UC": "<redacted>",
                 "FedAuth": "<redacted>",
                 "FedAuth1": "<redacted>",
                 "TimeWindow": "<redacted>",
