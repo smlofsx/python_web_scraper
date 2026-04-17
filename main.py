@@ -11,17 +11,17 @@ action_id=-48
 find_url='https://mail.spbstu.ru/owa/service.svc?action=FindConversation'
 create_url='https://mail.spbstu.ru/owa/service.svc?action=CreateItem'
 
-find_cookies = {"X-BackEndCookie": "S-1-5-21-1410376585-1421542451-2469044373-147122=u56Lnp2ejJqBxs+Zmciays3SnMjOytLLnsqZ0sfJxsvSz8zPms7PxpmdzJrPgYHNz83K0s7P0s3Lq8/GxcvHxc/H",
-                "ClientId": "62046F1A91D347F1BAF69E2AB4DA72FF",
+find_cookies = {"X-BackEndCookie": "<redacted>",
+                "ClientId": "<redacted>",
                 "X-OWA-JS-PSD": "1",
                 "UC": "b5faf18f42c34f7380e973cefac2f9e8",
-                "FedAuth": "77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U2VjdXJpdHlDb250ZXh0VG9rZW4gcDE6SWQ9Il8zOWJmZWYzOS1iNTRlLTQ0ZGYtOTg3YS00MzdkZTFkODQ1MzQtOTNDQUVCMDY5NUUwRkIyMTFCOEM4NTFFRUUyMTRCRDQiIHhtbG5zOnAxPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXdzc2VjdXJpdHktdXRpbGl0eS0xLjAueHNkIiB4bWxucz0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3Mtc3gvd3Mtc2VjdXJlY29udmVyc2F0aW9uLzIwMDUxMiI+PElkZW50aWZpZXI+dXJuOnV1aWQ6NmM5YzY2OTItYzMwMy00NGU2LThjMDYtYTY2ZTk5MjcyZTFkPC9JZGVudGlmaWVyPjxJbnN0YW5jZT51cm46dXVpZDpiMzVhYTZjOS0zZjU4LTQzZWMtOWIwMi02MTBkNjI0NWZiMTc8L0luc3RhbmNlPjxDb29raWUgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwNi8wNS9zZWN1cml0eSI+M3NkWjZlTFBUWGZqMlNyZnRQR3kzZGtIZGhZQkF1NG9SYU1oMTcvYXBwZ0FBUUFBV1BDdkh5OWtUbGtWL1NQT0lwNkJmS1dKb1ZIY3pwQVBWYjFOSlpVbjRkSEtyVGoyS2U2eVFDSmE0NHVUZnRObzZ4ZS9OM2VNZ1YrY0pDRUVOTjRHZmozcElUWDdlRkx2THhMb3gyRGhBOHJrRDl1VG9URlo4T3N6Y1BNUWl3SVVITDNMNUY5b1VYRUdKQ08wbDliV3RNWUNHS1N0WFd1cnZlUENNMzFFTlcwTWk4TGtNeHBxMDZ4WWljcHpJL2FTYUNKUXlBbjdOenJTdXBxcDZSMUJqQWhqRmNKS01FMFpzMHBwa1pIcGM1M2JJQzR1Y3V5enZ4aERjUWU2Q3hhL2JheEkvY1VDZmlPUnV2VjZQZ0R2dTE4SC9NNXFRd1ZYNndMWlBxajY3RkMyK1dVN2pmYVJUNnlRdkFNTWc5dDd1NmJYRmlIOXRLTmFuckxCSEVQNExLQURBQUJUVDNiZU1ySkZhMUVBZmFyeXFqMkVaeEpNRmNISUxhdTQyVjBycnk5SnBENUFHQlRPbFUxRE1nMExTU2Fvdm1FWVNKT21vUkRaaWlPU3Fqc2c1ZC8xVEhZM3pYNmdzWTVwRHBBUUVZcUN0VE1qZHBsOEhNMFE5T0RyT2htb1lZdXd6bXRocXdqU211ZHFZcnNwckFXQmEyS3FIbE9KMUZyNHBOWW1TYVo4VERTNG5TMTY2ZkpUQkQwUUxILytGK2JzbUZBNzZINjV6M3MxeXA0VUI5S1h5Q3JmSUhUZHIzYzYzb2VBZU51amozWHZrc3dzYmF4bU5Dc05taW1Cb1JJZzdyQThrbjNNZ3NEYlZRL3hSQmw5Q09aTURPbERTUmlYZ1lySS9SdjA3QkJRdXlCZTdKUWFtN24wM1ppdnNlYnlTL1RPVHlTQUVQUDVNcWtwendkSmExa05JY0pvcmVEd1dWWC9sNGZOR1kwcjh6dndwb2F0Rko5b1FVS2ZvbElBMkZOc2c1VkhPTHE5TVZvazRhdW4xN0wzeUFlNDhtallqbUdORC9DNTBRSlhJN0Jab2s0d205UFNrTldGZHA1U3NNTThaVVJTUFd4bXRVVldNRjdpT0MwVTRMVWkyTGQrWFUzQWVqVG0rdG1GNGdHUVdoLzB5OTlmditxd1N6T2xZMGNVNHlhdS9HM0QyYlg5a2tpWXp2K1JVaXRTdlcvR0tEU2JSdzViSTdIVVc1MHBlMUphSEpZMmtTZEJrNWZTeXBlYUhVV3hsRHhyY1k2Y3BiZzQr",
-                "FedAuth1": "ZkdTWFIyZVhTMThnQWxNS0c4eElUWW1kenNBb0d2ZCtFbzM3Skc5YWVORS8yUFhIYmVCZlphWXNacGZBQi9HcVB6Nk03V05MK1NmMnBEc2hFSVh1Q2FQSEVhUjFUa1VlVVQ4a2M2Nyt1SFVkclpSK1ZPSVpoV0J1OVBZZFN6dUt6S2N0MldDVkJhZitLSEg3U29XUFBJNTkvN1cxWFlkelhnQ2d6OHpZU3crb1JZcUFoQlUzQlFobC95YWFBOVVzbUNFTU05R1dUUjJhbW95SkhBNnRVbTNkeHNMeHpwV0NHWlV5d0Y2TzRNcWVDWmFNSjl4enVlaGwwTVdBcURqd1M5VEhYaGQ0Q2pwcVJCTXROd0VBaGkwSks1TGVEQUNVcndTRmc4WWNsclM4L0hUQzBQVUtZTFZNSC9walVUNy9iSE9JbVBRWWhGUVVUQlV0ZVhzanpkanBDSDcveWNBRloySjBGOUR0Mjh2azV0MlNQeVRZeFdDWEpsRGxoSHVFS1ROejl1bnIyWUE2ZFY1bUxncTYxUEFLNWRjM0V0dHNCQjdQdlR3OHh6SDFuS20rNDEvTlhaamU1YzBQWjNtd3VQL0tDdTBTUTJiZkwvS1YxMGg0a21IaHRkMlZPTzVTeHRjWitTejBwTHVpc3lGSExJS0JVTzBBZG5iVWFNK0lCZGkzQVRxYldKSmJ5cjdYaWZHU3l1TG1CakVTTFp6ZldNVnRBY0IvN09LM3VRTTRnNE5SSVg2bXlJanRZRHF5bnBtVGV3djZrTjBZVHA3MWJQeVIwblVQV2crTG1PbW9qVTJyUVpWdUlhdHUwWTh2eXFlczNscmltamJ6Si9CPC9Db29raWU+PC9TZWN1cml0eUNvbnRleHRUb2tlbj4=",
-                "TimeWindow": "6Frp6Y0tKhLI6ZMi6fJfGMLJ1wq+f5h+T/ZLGjIALlnVFTEIZAeLvmUdg5Ql7zldm2sYoHQ/JDPUSciogouhErMkjBbfHDBFn0TVHZnqS/c=",
-                "TimeWindowKey": "MmFv7OcFKFxzoV6X0Jq+/ErByguHRel9jzFyBhlRdV5nZVG5ANVVKQyBf6mwYOw5uvuxOmOETamFJKPaMdabNmf1+T96vLA5Z57Xe06zQx2YA+1bvE5SZpEPdq/Rbwsoe8nNYxlCo8HLkMyQaXrG8fDhXMq7gDvm+h4XhpNTYPg0AjQH7ihMIAifR1lTB9D5lwURMA12oI2PhAQG0XLZMfFOmp2ZBKgpxBcFoyuDkogdTkXcOjmw3YlLHFTuVQT4xKMlStsSICyd10Eozt/6XXzJ4KRO3BUNUIDLGBuFGzE1ECt/ZDvZplKpO3c5bONArZyQ8DtlG3Fkf0vR3i5FIQ==",
-                "TimeWindowIV": "fHKpTO0i9jBkb3C3R7J0ZILAqj3qSA6nRYHxHNOjFtbQxh5DVDHu77pCbAFzOvHIcBogBsVv1wRU7MdmKZygO2QYvBnc1TQsLrFpJEpNDfLhUh6NnDgd1+18dNci/aMi48qhXNGaZm0X3L0EfEGE2SkK9fb6a2LzEPPuQcVoXkWbQguqBZCBkOuFXM8iaLS9tL0abU+2vU/18uu/wDq3OzbRU2MJNnnDoHdDGVd1GWEXoFSKuLdKvZK4FXYz1AyaHwo0IbMfDkQxNALXNnlFyVVdsPJK3daPgVp9jByLJ+2x2Y0WZ3o+Jwm6JgO26tCfiPugpfXTW4Z6tkW+GQ0cWw==",
-                "TimeWindowSig": "YThjyhelkfYSU/d+g03wPWFTRNpQI9oYiJlgESZm/5fP0TTVfNncrrJhq4TVRDZukvwJ0sKorGyj6FeMItcMIfCID/XtiHRCEAVJz2uB2D6vSoqV8xOli1EZRZXxdCF8GPxMUnFCqX2mMZUkQ/ZancOlmzJPSW3JEG260d6wIfWrTk9NRaPB4C5hB+Wa+AiSVohzYofj0dUBRnyP00e8R/X95RZDtVM20ohtLYx8Pys+rhugsv3H5StQBXbD4Q4cO5hvFRNL8nyyj24PNPKctZ0yjXKANl73p6zeoSBr/ApPCLjNwVou9GczolChTPu/O3UlKs6R7hs78Sxa8oShVQ==",
-                "X-OWA-CANARY":"Yyabj4txSUmLQ-k8P8jCNpANh3BP-90Ivffi9wHWhZcl8nFhPP8n4i7CT-k9X9Dso15AVleQu1U."}
+                "FedAuth": "<redacted>",
+                "FedAuth1": "<redacted>",
+                "TimeWindow": "<redacted>",
+                "TimeWindowKey": "<redacted>",
+                "TimeWindowIV": "<redacted>",
+                "TimeWindowSig": "<redacted>",
+                "X-OWA-CANARY":"<redacted>"}
 
 find_headers = {
         'Sec-Ch-Ua-Platform': '"Windows"',
@@ -30,13 +30,13 @@ find_headers = {
         'X-Requested-With':'XMLHttpRequest',
         'Content-Type':'application/json; charset=UTF-8',
         'X-Owa-Actionname':'Browse_All',
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
-        'X-Owa-Correlationid': "62046F1A91D347F1BAF69E2AB4DA72FF_175870728876026", ##
+        'User-Agent': '<redacted>',
+        'X-Owa-Correlationid': "<redacted>", ##
         'Action':'FindConversation',
         'Accept-Language':'ru-RU,ru;q=0.9',
-        'X-Owa-Canary':'Yyabj4txSUmLQ-k8P8jCNpANh3BP-90Ivffi9wHWhZcl8nFhPP8n4i7CT-k9X9Dso15AVleQu1U.',
+        'X-Owa-Canary':'<redacted>',
         'X-Owa-Urlpostdata': '%7B%22__type%22%3A%22FindConversationJsonRequest%3A%23Exchange%22%2C%22Header%22%3A%7B%22__type%22%3A%22JsonRequestHeaders%3A%23Exchange%22%2C%22RequestServerVersion%22%3A%22V2016_02_03%22%2C%22TimeZoneContext%22%3A%7B%22__type%22%3A%22TimeZoneContext%3A%23Exchange%22%2C%22TimeZoneDefinition%22%3A%7B%22__type%22%3A%22TimeZoneDefinitionType%3A%23Exchange%22%2C%22Id%22%3A%22Russian%20Standard%20Time%22%7D%7D%7D%2C%22Body%22%3A%7B%22__type%22%3A%22FindConversationRequest%3A%23Exchange%22%2C%22ParentFolderId%22%3A%7B%22__type%22%3A%22TargetFolderId%3A%23Exchange%22%2C%22BaseFolderId%22%3A%7B%22__type%22%3A%22DistinguishedFolderId%3A%23Exchange%22%2C%22Id%22%3A%22sentitems%22%7D%7D%2C%22ConversationShape%22%3A%7B%22__type%22%3A%22ConversationResponseShape%3A%23Exchange%22%2C%22BaseShape%22%3A%22IdOnly%22%7D%2C%22ShapeName%22%3A%22ConversationSentItemsListView%22%2C%22Paging%22%3A%7B%22__type%22%3A%22IndexedPageView%3A%23Exchange%22%2C%22BasePoint%22%3A%22Beginning%22%2C%22Offset%22%3A0%2C%22MaxEntriesReturned%22%3A25%7D%2C%22ViewFilter%22%3A%22All%22%2C%22FocusedViewFilter%22%3A-1%2C%22SortOrder%22%3A%5B%7B%22__type%22%3A%22SortResults%3A%23Exchange%22%2C%22Order%22%3A%22Descending%22%2C%22Path%22%3A%7B%22__type%22%3A%22PropertyUri%3A%23Exchange%22%2C%22FieldURI%22%3A%22ConversationLastDeliveryTime%22%7D%7D%5D%7D%7D',
-        'Client-Request-Id': "62046F1A91D347F1BAF69E2AB4DA72FF_175870728876026", ##
+        'Client-Request-Id': "<redacted>", ##
         'Accept': '*/*',
         'Origin': 'https://mail.spbstu.ru',
         'Sec-Fetch-Site': 'same-origin',
@@ -48,17 +48,17 @@ find_headers = {
     }
 
 create_cookies={
-    "X-BackEndCookie":"S-1-5-21-1410376585-1421542451-2469044373-147122=u56Lnp2ejJqBxs+Zmciays3SnMjOytLLnsqZ0sfJxsvSz8zPms7PxpmdzJrPgYHNz83K0s7P0s3Lq8/GxcrMxc/N",
-    "ClientId":"62046F1A91D347F1BAF69E2AB4DA72FF",
-    "FedAuth":"77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U2VjdXJpdHlDb250ZXh0VG9rZW4gcDE6SWQ9Il8zOWJmZWYzOS1iNTRlLTQ0ZGYtOTg3YS00MzdkZTFkODQ1MzQtOTNDQUVCMDY5NUUwRkIyMTFCOEM4NTFFRUUyMTRCRDQiIHhtbG5zOnAxPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXdzc2VjdXJpdHktdXRpbGl0eS0xLjAueHNkIiB4bWxucz0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3Mtc3gvd3Mtc2VjdXJlY29udmVyc2F0aW9uLzIwMDUxMiI+PElkZW50aWZpZXI+dXJuOnV1aWQ6NmM5YzY2OTItYzMwMy00NGU2LThjMDYtYTY2ZTk5MjcyZTFkPC9JZGVudGlmaWVyPjxJbnN0YW5jZT51cm46dXVpZDpiMzVhYTZjOS0zZjU4LTQzZWMtOWIwMi02MTBkNjI0NWZiMTc8L0luc3RhbmNlPjxDb29raWUgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwNi8wNS9zZWN1cml0eSI+M3NkWjZlTFBUWGZqMlNyZnRQR3kzZGtIZGhZQkF1NG9SYU1oMTcvYXBwZ0FBUUFBV1BDdkh5OWtUbGtWL1NQT0lwNkJmS1dKb1ZIY3pwQVBWYjFOSlpVbjRkSEtyVGoyS2U2eVFDSmE0NHVUZnRObzZ4ZS9OM2VNZ1YrY0pDRUVOTjRHZmozcElUWDdlRkx2THhMb3gyRGhBOHJrRDl1VG9URlo4T3N6Y1BNUWl3SVVITDNMNUY5b1VYRUdKQ08wbDliV3RNWUNHS1N0WFd1cnZlUENNMzFFTlcwTWk4TGtNeHBxMDZ4WWljcHpJL2FTYUNKUXlBbjdOenJTdXBxcDZSMUJqQWhqRmNKS01FMFpzMHBwa1pIcGM1M2JJQzR1Y3V5enZ4aERjUWU2Q3hhL2JheEkvY1VDZmlPUnV2VjZQZ0R2dTE4SC9NNXFRd1ZYNndMWlBxajY3RkMyK1dVN2pmYVJUNnlRdkFNTWc5dDd1NmJYRmlIOXRLTmFuckxCSEVQNExLQURBQUJUVDNiZU1ySkZhMUVBZmFyeXFqMkVaeEpNRmNISUxhdTQyVjBycnk5SnBENUFHQlRPbFUxRE1nMExTU2Fvdm1FWVNKT21vUkRaaWlPU3Fqc2c1ZC8xVEhZM3pYNmdzWTVwRHBBUUVZcUN0VE1qZHBsOEhNMFE5T0RyT2htb1lZdXd6bXRocXdqU211ZHFZcnNwckFXQmEyS3FIbE9KMUZyNHBOWW1TYVo4VERTNG5TMTY2ZkpUQkQwUUxILytGK2JzbUZBNzZINjV6M3MxeXA0VUI5S1h5Q3JmSUhUZHIzYzYzb2VBZU51amozWHZrc3dzYmF4bU5Dc05taW1Cb1JJZzdyQThrbjNNZ3NEYlZRL3hSQmw5Q09aTURPbERTUmlYZ1lySS9SdjA3QkJRdXlCZTdKUWFtN24wM1ppdnNlYnlTL1RPVHlTQUVQUDVNcWtwendkSmExa05JY0pvcmVEd1dWWC9sNGZOR1kwcjh6dndwb2F0Rko5b1FVS2ZvbElBMkZOc2c1VkhPTHE5TVZvazRhdW4xN0wzeUFlNDhtallqbUdORC9DNTBRSlhJN0Jab2s0d205UFNrTldGZHA1U3NNTThaVVJTUFd4bXRVVldNRjdpT0MwVTRMVWkyTGQrWFUzQWVqVG0rdG1GNGdHUVdoLzB5OTlmditxd1N6T2xZMGNVNHlhdS9HM0QyYlg5a2tpWXp2K1JVaXRTdlcvR0tEU2JSdzViSTdIVVc1MHBlMUphSEpZMmtTZEJrNWZTeXBlYUhVV3hsRHhyY1k2Y3BiZzQr",
-    "FedAuth1":"ZkdTWFIyZVhTMThnQWxNS0c4eElUWW1kenNBb0d2ZCtFbzM3Skc5YWVORS8yUFhIYmVCZlphWXNacGZBQi9HcVB6Nk03V05MK1NmMnBEc2hFSVh1Q2FQSEVhUjFUa1VlVVQ4a2M2Nyt1SFVkclpSK1ZPSVpoV0J1OVBZZFN6dUt6S2N0MldDVkJhZitLSEg3U29XUFBJNTkvN1cxWFlkelhnQ2d6OHpZU3crb1JZcUFoQlUzQlFobC95YWFBOVVzbUNFTU05R1dUUjJhbW95SkhBNnRVbTNkeHNMeHpwV0NHWlV5d0Y2TzRNcWVDWmFNSjl4enVlaGwwTVdBcURqd1M5VEhYaGQ0Q2pwcVJCTXROd0VBaGkwSks1TGVEQUNVcndTRmc4WWNsclM4L0hUQzBQVUtZTFZNSC9walVUNy9iSE9JbVBRWWhGUVVUQlV0ZVhzanpkanBDSDcveWNBRloySjBGOUR0Mjh2azV0MlNQeVRZeFdDWEpsRGxoSHVFS1ROejl1bnIyWUE2ZFY1bUxncTYxUEFLNWRjM0V0dHNCQjdQdlR3OHh6SDFuS20rNDEvTlhaamU1YzBQWjNtd3VQL0tDdTBTUTJiZkwvS1YxMGg0a21IaHRkMlZPTzVTeHRjWitTejBwTHVpc3lGSExJS0JVTzBBZG5iVWFNK0lCZGkzQVRxYldKSmJ5cjdYaWZHU3l1TG1CakVTTFp6ZldNVnRBY0IvN09LM3VRTTRnNE5SSVg2bXlJanRZRHF5bnBtVGV3djZrTjBZVHA3MWJQeVIwblVQV2crTG1PbW9qVTJyUVpWdUlhdHUwWTh2eXFlczNscmltamJ6Si9CPC9Db29raWU+PC9TZWN1cml0eUNvbnRleHRUb2tlbj4=",
-    "UC":"b5faf18f42c34f7380e973cefac2f9e8",
+    "X-BackEndCookie":"<redacted>",
+    "ClientId":"<redacted>",
+    "FedAuth":"<redacted>",
+    "FedAuth1":"<redacted>",
+    "UC":"<redacted>",
     "X-OWA-JS-PSD":"1",
-    "TimeWindow":"6Frp6Y0tKhLI6ZMi6fJfGMLJ1wq+f5h+T/ZLGjIALlnVFTEIZAeLvmUdg5Ql7zldm2sYoHQ/JDPUSciogouhErMkjBbfHDBFn0TVHZnqS/c=",
-    "TimeWindowKey":"MmFv7OcFKFxzoV6X0Jq+/ErByguHRel9jzFyBhlRdV5nZVG5ANVVKQyBf6mwYOw5uvuxOmOETamFJKPaMdabNmf1+T96vLA5Z57Xe06zQx2YA+1bvE5SZpEPdq/Rbwsoe8nNYxlCo8HLkMyQaXrG8fDhXMq7gDvm+h4XhpNTYPg0AjQH7ihMIAifR1lTB9D5lwURMA12oI2PhAQG0XLZMfFOmp2ZBKgpxBcFoyuDkogdTkXcOjmw3YlLHFTuVQT4xKMlStsSICyd10Eozt/6XXzJ4KRO3BUNUIDLGBuFGzE1ECt/ZDvZplKpO3c5bONArZyQ8DtlG3Fkf0vR3i5FIQ==",
-    "TimeWindowIV":"fHKpTO0i9jBkb3C3R7J0ZILAqj3qSA6nRYHxHNOjFtbQxh5DVDHu77pCbAFzOvHIcBogBsVv1wRU7MdmKZygO2QYvBnc1TQsLrFpJEpNDfLhUh6NnDgd1+18dNci/aMi48qhXNGaZm0X3L0EfEGE2SkK9fb6a2LzEPPuQcVoXkWbQguqBZCBkOuFXM8iaLS9tL0abU+2vU/18uu/wDq3OzbRU2MJNnnDoHdDGVd1GWEXoFSKuLdKvZK4FXYz1AyaHwo0IbMfDkQxNALXNnlFyVVdsPJK3daPgVp9jByLJ+2x2Y0WZ3o+Jwm6JgO26tCfiPugpfXTW4Z6tkW+GQ0cWw==",
-    "TimeWindowSig":"YThjyhelkfYSU/d+g03wPWFTRNpQI9oYiJlgESZm/5fP0TTVfNncrrJhq4TVRDZukvwJ0sKorGyj6FeMItcMIfCID/XtiHRCEAVJz2uB2D6vSoqV8xOli1EZRZXxdCF8GPxMUnFCqX2mMZUkQ/ZancOlmzJPSW3JEG260d6wIfWrTk9NRaPB4C5hB+Wa+AiSVohzYofj0dUBRnyP00e8R/X95RZDtVM20ohtLYx8Pys+rhugsv3H5StQBXbD4Q4cO5hvFRNL8nyyj24PNPKctZ0yjXKANl73p6zeoSBr/ApPCLjNwVou9GczolChTPu/O3UlKs6R7hs78Sxa8oShVQ==",
-    "X-OWA-CANARY":"Yyabj4txSUmLQ-k8P8jCNpANh3BP-90Ivffi9wHWhZcl8nFhPP8n4i7CT-k9X9Dso15AVleQu1U."
+    "TimeWindow":"<redacted>",
+    "TimeWindowKey":"<redacted>",
+    "TimeWindowIV":"<redacted>",
+    "TimeWindowSig":"<redacted>",
+    "X-OWA-CANARY":"<redacted>"
 }
 
 create_headers={
@@ -69,13 +69,13 @@ create_headers={
     'X-Requested-With':'XMLHttpRequest',
     'Content-Type':'application/json; charset=UTF-8',
     'X-Owa-Actionname':'CreateMessageForComposeSend',
-    'X-Owa-Correlationid':'62046F1A91D347F1BAF69E2AB4DA72FF_175870760218435', ##
+    'X-Owa-Correlationid':'<redacted>', ##
     'Action':'CreateItem',
     'Accept-Language':'ru-RU,ru;q=0.9',
-    'X-Owa-Canary':'il9lwFtOD06w9Ak_uQjP2uDQXQqW-t0IPSQijdM4tAJSm1W3FnZwsv80bd-K5ugwYugWVyDWXTo.',
-    'Client-Request-Id':'62046F1A91D347F1BAF69E2AB4DA72FF_175870760218435', ##
+    'X-Owa-Canary':'<redacted>',
+    'Client-Request-Id':'<redacted>', ##
     'X-Owa-Clientbuildversion':'15.2.1258.34',
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36',
+    'User-Agent': '<redacted>',
     'X-Owa-Actionid':'-48',
     'Accept':'*/*',
     'Origin':'https://mail.spbstu.ru',
